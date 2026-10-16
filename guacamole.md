@@ -4,6 +4,6 @@
 
 * avocado 
 * salt 
-* lime 
+* limes 
 
 ### Instructions
